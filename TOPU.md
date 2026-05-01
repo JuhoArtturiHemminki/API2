@@ -141,3 +141,6 @@ TOPU™ Core V2.1 is not a program; it is a **digital law of nature**. It turns 
 **Juho Artturi Hemminki**  
 *Universal Convergence Architect*  
 *API2 Foundation*
+
+---
+*Copyright © 2026 Juho Artturi Hemminki. This specification is released under the "Apache 2.0" license.*
